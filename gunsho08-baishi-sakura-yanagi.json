@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/baishi-sakura-yanagi-utaawase",
  "yomi": "ばいしないしんのうけさくらやなぎうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "歌合（桜柳）",
+  "era": "未詳（3月十余日）",
+  "author": "禖子内親王家",
+  "desc": "禖子内親王の御前の桜が盛りのころ、左右に分かれて桜と柳を植え集め、その優劣を歌に詠み合わせた歌合。序と最初の番だけが伝わる。"
+ },
  "editions": [
   {
    "pid": "1879502",
